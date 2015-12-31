@@ -64,7 +64,7 @@
                                 <color key="tintColor" red="0.22352942824363708" green="0.96862751245498657" blue="0.20784315466880798" alpha="1" colorSpace="deviceRGB"/>
                             </view>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" id="tNd-4q-3bU">
-                                <rect key="frame" x="20" y="216" width="292" height="29"/>
+                                <rect key="frame" x="20" y="215" width="292" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
                                     <segment title="18%"/>

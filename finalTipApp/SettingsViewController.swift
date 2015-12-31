@@ -6,6 +6,7 @@
 //  Copyright © 2015 Adnan Ali Lone. All rights reserved.
 //
 
+
 import UIKit
 
 class SettingsViewController: UIViewController, UIPickerViewDataSource,UIPickerViewDelegate {
@@ -16,6 +17,7 @@ class SettingsViewController: UIViewController, UIPickerViewDataSource,UIPickerV
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         
         
         

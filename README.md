@@ -4,7 +4,7 @@
 
 Submitted by: **Adnan Ali Lone**
 
-Time spent: **30** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
@@ -25,7 +25,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Encountered problems while implementing the settings controller.
+Had issues with implementing navigation bar and navigation controller.
 
 ## License
 
